@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ardanaa
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning fullstack web developer course at Binar Academy
+- 🌱 I’m currently learning Fullstack Web Weveloper course at Binar Academy
 
 <!---
 Ardanaa/Ardanaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
