@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ardanaa
+- 👋 Hi, I’m Ardana
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently in Fullstack Web Developer course at Binar Academy
 
