@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ardana
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently in Kompas.id as Front-End Developer Intern
+- 🌱 I’m currently in Kompas.id as Front-End Developer
 
 <!-- [![Ardana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ardanaa)](https://github.com/ardanaa/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardanaa&layout=compact)](https://github.com/ardanaa/github-readme-stats)
